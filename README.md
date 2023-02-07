@@ -7,12 +7,19 @@ As we prepare to begin our Des Moines bike-sharing program, we wanted to analyze
 
 We looked at a total of 7 different [visualizations](https://public.tableau.com/app/profile/vytas.stuopis/viz/NYCCitibike_16751337223540/CityBikeFindings)
 1. August Peak Hours - Tells us what hours of the day are the busiest in August
+![August Peak Hours](https://github.com/vstuopis/bikesharing/blob/main/August%20Peak%20Hours.png)
 2. Gender Breakdown - The gender of our bike-sharing program riders
+![Gender Breakdown]()
 3. Trips by Gender (Weekday Hour) - A breakdown of the times of day different genders ride on the different days of the week
+![Trips by Gender (Weekday Hour)]()
 4. Trips by Weekday per Hour - A breakdown of the hours of day bike trips are made
+![Trips by Weekday per Hour]()
 5. User Trips by Gender by Weekday - A breakdown of our customer base (Subscribers or Customers) and the number of trips made by gender during each hour of the day
+![User Trips by Gender by Weekday]()
 6. Checkout Times by Users - How long our users ride for 
+![Checkout Times by Users]()
 7. Checkout Times by Gender - How long different genders ride for
+![Checkout Times by Gender]()
 
 ## Summary
 Overall there are a few major takeaways we can see as we look towards expanding this program into Des Moines:
